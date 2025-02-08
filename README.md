@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Chris!
 
-<!--
-**christopher-eglinton/christopher-eglinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Integration Specialist**  
+🔧 **Go | Python | PHP | SQL (of all flavors!) | Rust (learning) | API Development**  
+🌍 **Based in Switzerland** 🇨🇭
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ **What I Do**
+I specialize in **backend development**, building high-performance APIs, and architecting **integration solutions** that connect complex local and cloud systems seamlessly. 
+
+My experience includes:  
+✅ **Go & PHP (Symfony)**: Developing scalable services & maintaining legacy systems.  
+✅ **API Development & Integration**: Designing RESTful APIs & integrating 3rd-party services.  
+✅ **Data Processing Pipelines**: Automating data flows between platforms.  
+✅ **Cloud & Infrastructure**: Experience with **Docker, Linux, CI/CD, Azure, and monitoring (Grafana, Prometheus, Kibana, Logstash)**.  
+
+---
+
+## 🏆 **Notable Projects**
+🔹 **Connection Integration Platform** (Go, PHP) – Handles critical data transfers between external APIs and internal applications.  
+🔹 **Enterprise Data Synchronization** – Built a system which processes & imports **20,000+ users daily** from various data sources.  
+🔹 **Security & Compliance API** – Enabled a major **international airport** to verify training compliance before granting security access.  
+🔹 **Migration from PHP to Go** – Leading the transition of a legacy PHP system to a more scalable Go-based architecture.  
+
+---
+
+## 💙 **What I'm Passionate About**:  
+✔️ Designing **scalable APIs** & full stack systems.
+✔️ Optimizing data pipelines & integrations.  
+✔️ Improving developer workflows with automation & DevOps.  
+
+---
+
+## 📫 **Let's Connect!**
+💼 [LinkedIn](www.linkedin.com/in/christopher-eglinton-998803232)  
+
+---
+
+💡 Always open to discussions on software engineering, integration projects, and API development. Feel free to reach out! 
