@@ -18,9 +18,9 @@ My experience includes:
 ---
 
 ## 🏆 **Notable Projects**
-🔹 **Connection Integration Platform** (Go, PHP) – Handles critical data transfers between external APIs and internal applications.  
+🔹 **High-Security API** - Developed a **mission-critical API** used by a **major international airport** to verify employee training compliance before allowing access to **secure areas**.  
+🔹 **Connection Integration Platform** – Handles critical data transfers between external APIs and internal applications.  
 🔹 **Enterprise Data Synchronization** – Built a system which processes & imports **20,000+ users daily** from various data sources.  
-🔹 **Security & Compliance API** – Enabled a major **international airport** to verify training compliance.  
 🔹 **Migration from PHP to Go** – Leading the transition of a legacy PHP system to a more scalable Go-based architecture.  
 
 ---
