@@ -34,7 +34,7 @@ My experience includes:
 ---
 
 ## 📫 **Let's Connect!**
-💼 [LinkedIn](www.linkedin.com/in/christopher-eglinton-998803232)  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christopher-eglinton-998803232)  
 
 ---
 
