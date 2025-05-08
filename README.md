@@ -20,7 +20,7 @@ my experience includes:
 ---
 
 ## some stuff i've worked on
-- high-security API - Developed a mission-critical API used by a major international airport* to verify employee training compliance before allowing access to **secure areas**.
+- high-security API - Developed a mission-critical API used by a major international airport to verify employee training compliance before allowing access to **secure areas**.
 - connection integration platform – handles critical data transfers between external APIs and internal applications.
 - enterprise data synchronization – built and maintain a system which processes & imports 20,000+ users daily from various data sources.
 - code migration from PHP to go – leading the transition of a legacy PHP system to a go-based architecture.  
